@@ -2,6 +2,10 @@
 <h3 align="center">A passionate backend developer from India</h3>
 
 
+<div align="center">
+  <img src=https://i.pinimg.com/736x/97/a5/2b/97a52b122362264db9cb718bc233a106.jpg style="width: 800px; height: auto;"/>
+</div>
+
 
 - 🔭 I’m currently working on **Clarion**
 
