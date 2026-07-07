@@ -7,9 +7,9 @@
 </div>
 
 
-- 🔭 I’m currently working on **Clarion**
+- 🔭 I’m currently working on **FURI**
 
-- 🌱 I’m currently learning **Containerization and Redis**
+- 🌱 I’m currently learning **Transaction Managements**
 
 - 👯 I’m looking to collaborate on **backend, focusing on API integration, user authentication/management, and performance improvements**
 
