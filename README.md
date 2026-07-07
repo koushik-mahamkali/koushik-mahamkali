@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mahamkalikoushik0@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SGcc4vPZea-LTlCEqEF9wxcLnqm98isY/view?usp=drive_link](https://drive.google.com/file/d/1SGcc4vPZea-LTlCEqEF9wxcLnqm98isY/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1SGcc4vPZea-LTlCEqEF9wxcLnqm98isY/view?usp=drive_link]([https://drive.google.com/file/d/1SGcc4vPZea-LTlCEqEF9wxcLnqm98isY/view?usp=drive_link](https://drive.google.com/file/d/1MH6Lcnoa9PxKhPBmuDEkYE_o4cwumUqI/view?usp=sharing))
 
 - ⚡ Fun fact **I tried other techstack like blockchain , ML etc.**
 
